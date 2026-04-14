@@ -8,7 +8,7 @@ This repository contains my solutions to Project Euler problems using C++.
 - Explore number theory and algorithms
 
 ## Progress
-Solved: 2 problem(s)
+Solved: 2 problem(s) excluding Problem 0
 
 ## Notes
 Only problems 1–100 are included publicly in accordance with Project Euler guidelines.
