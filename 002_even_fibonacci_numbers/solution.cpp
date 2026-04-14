@@ -24,7 +24,7 @@ int main(){
         out = fibonacci(i);
     }
 
-    std:: cout << "The result is: " << result;
+    std:: cout << " \nThe result is: " << result;
 
 
     // timer code not relevant to question
